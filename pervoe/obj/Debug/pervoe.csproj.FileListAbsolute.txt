@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\pervoe\pervoe\bin\Debug\pervoe.exe.config
+C:\Users\user\Desktop\pervoe\pervoe\bin\Debug\pervoe.exe
+C:\Users\user\Desktop\pervoe\pervoe\bin\Debug\pervoe.pdb
+C:\Users\user\Desktop\pervoe\pervoe\obj\Debug\pervoe.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pervoe\pervoe\obj\Debug\pervoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\pervoe\pervoe\obj\Debug\pervoe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pervoe\pervoe\obj\Debug\pervoe.exe
+C:\Users\user\Desktop\pervoe\pervoe\obj\Debug\pervoe.pdb
